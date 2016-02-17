@@ -24,7 +24,6 @@ def main(argv):
             for d in documents:
                 for s in d.sentences:
                     out = posout if label in s.labels else negout
-                    print type(s.text)
                     out.write(s.text + u'\n')
 
 if __name__ == '__main__':
