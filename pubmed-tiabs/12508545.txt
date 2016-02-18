@@ -1,0 +1,9 @@
+[Effect of NF-kappa B pathway on apoptosis of hepatic carcinoma cell line-7721 induced by TNF-alpha].
+BACKGROUND & OBJECTIVE
+It was proved that nuclear factor-kappa B play an important role in the activation of immune cell, anti-virus, various stress reaction, and regulation of apoptosis, etc. The objective of this study was to investigate the effect of NF-kappa B signal-transduction pathway on apoptosis of hepatic carcinoma cell line-7721 induced by TNF-alpha.
+METHODS
+The activation of TNF-alpha on NF-kappa B conduction pathway was determined with ELISA and immunohistochemistry. Then the activation of TNF-alpha was blocked with TPCK. Flow cytometry was used to detect apoptosis.
+RESULTS
+1. TNF-alpha could activate the NF-kappa B conduction pathway. 2. TPCK could inhibit the activation of NF-kappa B induced by TNF-alpha. 3. Inactivation of NF-kappa B by TPCK could enhance apoptosis induced by TNF-alpha.
+CONCLUSION
+NF-kappa B conduction pathway of 7721 cell takes part in anti-apoptosis and plays an important role in the tolerance on cytotoxicity of TNF-alpha of 7721 cell. Inhibition of NF-kappa B conduction pathway may has potential value in tumor treatment.

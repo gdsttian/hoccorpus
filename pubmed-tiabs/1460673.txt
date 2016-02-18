@@ -1,0 +1,13 @@
+Growth inhibition of estrogen-dependent and estrogen-independent MXT mammary cancers in mice by the bombesin and gastrin-releasing peptide antagonist RC-3095.
+BACKGROUND
+Many breast cancers are estrogen independent, and even in patients who initially respond to estrogen suppression therapy, the regression is often temporary. We have recently shown that antagonists of bombesin and gastrin-releasing peptide, including RC-3095, inhibit the growth of pancreatic, colonic, and prostatic cancers in experimental animals. This effect was associated with a substantial decrease in epidermal growth factor (EGF) receptor levels in pancreatic and colon cancers.
+PURPOSE
+In view of these findings, we investigated the effects of our synthetic bombesin and gastrin-releasing peptide receptor antagonist D-Tpi6,Leu13 psi (CH2NH)-Leu14 bombesin(6-14) (RC-3095) on the growth of hormone-dependent and hormone-independent MXT mouse mammary cancers in vivo.
+METHODS
+Female (C57BL x DBA/2)F1 mice bearing estrogen-dependent or estrogen-independent MXT mammary carcinomas were treated with small doses (20 micrograms/d) of RC-3095 administered from osmotic minipumps. Separate groups of mice with estrogen-independent tumors received RC-3095, bombesin, or gastrin-releasing peptide(14-27) at 20 micrograms/d. We determined tumor volume and weight, mitotic index, apoptosis (programmed cell death), and argyrophilic nucleolar organizer regions, an indicator of tumor cell proliferation. Levels of receptors for EGF and bombesin were measured in tumor membrane fractions.
+RESULTS
+Growth of both estrogen-dependent and estrogen-independent MXT breast cancers was significantly inhibited by RC-3095. Bombesin or gastrin-releasing peptide had no effect on the growth of estrogen-independent tumors. Inhibition of tumor cell proliferation was indicated by a 45%-65% reduction in tumor volume, a 35%-58% reduction in tumor weight, and statistically significant decreases in argyrophilic nucleolar organizer region counts after treatment with RC-3095. In estrogen-independent cancers, tumor inhibition was associated with a decrease in the capacity of EGF receptors from 0.21 +/- 0.016 pmol/mg membrane protein in controls to 0.03 +/- 0.003 pmol/mg membrane protein in the RC-3095-treated group.
+CONCLUSIONS
+This is the first demonstration of inhibitory effects of bombesin and gastrin-releasing peptide antagonists on the growth of breast cancers in vivo.
+IMPLICATIONS
+These findings suggest that bombesin antagonists should be considered for breast cancer therapy.
