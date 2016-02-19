@@ -1,0 +1,6 @@
+We present a novel gain-of-function mutation of TGF-beta receptor II ( TbetaRII ) found in human oral squamous cell carcinoma ( OSCC ) .	['genomic instability and mutation', 'sustaining proliferative signaling']
+Expression of E221V/N238I mutant TbetaRII enhanced TGF-beta signaling .	[]
+Mutation of TbetaRII conferred cells higher migratory and invasive capabilities and MMP-2 activity .	['genomic instability and mutation', 'activating invasion and metastasis']
+In mouse tumor model , mutant tumors exhibited poor differentiation and E-cadherin relocalization to the cytosol .	[]
+Lipid-raft-dependent endocytosis of TbetaRII was attenuated in mutant TbetaRII , suggesting that enhancement of TGF-beta signaling by this mutation is due to delayed TbetaRII internalization .	[]
+Taken together , our results show a novel gain-of-function TbetaRII mutation , which enhances TGF-beta signaling leading to more invasive phenotypic changes in human OSCC .	['genomic instability and mutation', 'activating invasion and metastasis']
